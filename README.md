@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vmaldosan
 - 👀 I’m interested in international coooperation, machine learning, application security and web development
-- 🌱 I’m currently learning Python and TensorFlow
-- 💞️ I’m looking to collaborate on opensource projects
+- 🌱 I’m currently learning Python, TensorFlow and PyTorch
+- 💞️ I’m looking to collaborate on non-profit opensource projects
 - 📫 How to reach me: vmaldosan@gmail.com
