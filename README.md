@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Víctor Maldonado
+- 👋 Hi, I’m Víctor Maldonado Sánchez
 - ⚠️ This profile is now outdated, my personal projects are hosted in Codeberg
-- 📫 How to reach me: vmaldosan@fastmail.net
+- 📫 How to reach me: vmaldosan@mailfence.com
