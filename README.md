@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Víctor Maldonado Sánchez
-- ⚠️ This profile is now outdated, my personal projects are hosted in Codeberg
+- ⚠️ This profile is now focused on my contributions to the Information Management team in the Spanish Red Cross.
+- 🤓 My personal projects are now all in [[https://codeberg.org/vmaldosan]]
 - 📫 How to reach me: vmaldosan@mailfence.com
